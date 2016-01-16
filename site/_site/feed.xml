@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zoomulus - Get to the cloud fast</title>
+    <description>Zoomulus is an open source project for cloud computing.
+</description>
+    <link>http://zoomulus.com/</link>
+    <atom:link href="http://zoomulus.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 16 Jan 2016 13:28:11 -0700</pubDate>
+    <lastBuildDate>Sat, 16 Jan 2016 13:28:11 -0700</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Intro to Zoomulus</title>
+        <description>
+</description>
+        <pubDate>Sat, 16 Jan 2016 05:43:23 -0700</pubDate>
+        <link>http://zoomulus.com/jekyll/update/2016/01/16/zoomulus-intro.html</link>
+        <guid isPermaLink="true">http://zoomulus.com/jekyll/update/2016/01/16/zoomulus-intro.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
